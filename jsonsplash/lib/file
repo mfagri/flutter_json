@@ -1,0 +1,25 @@
+{
+    "results":[
+    {       "gender":"female",
+            "name":{"title":"Ms","first":"Irene","last":"Longoria"},
+            "location":{"street":{"number":951,"name":"Avenida Sur
+            Guevara"},"city":"Xalisco","state":"Chihuahua","country":"Mexico","postcode
+            ":51192,"coordinates":{"latitude":"22.2381","longitude":"15.9268"},"timezon
+            e":{"offset":"+9:30","description":"Adelaide,
+            Darwin"}},
+            "email":"irene.longoria@example.com",
+            "login":{"uuid":"77de11f2-7bd8-4949-9436-dc7cec909292","username":"happyswan829","password":"carlton",
+            "salt":"RZHKrMgs","md5":"35b7a40bf396244469b42f1926805d30",
+            "sha1":"273e62e7431268dfeb33ebc59dccfe371c7a5cef",
+            "sha256":"04b34189e7b1fe21725087b4739e9b34883d9d9cfb0a497561635128ff9e9e4e"},
+            "dob":{"date":"1971-10-27T07:15:16.102Z","age":51},
+            "registered":{"date":"2017-12-30T15:08:36.559Z","age":5},
+            "phone":"(675) 061 5119","cell":"(603) 103 8220","id":{"name":"NSS","value":"30 9734 12124"},
+            "picture":{"large":"https://randomuser.me/api/portraits/women/90.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/women/90.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/women/90.jpg"},
+            "nat":"MX"
+}
+],
+"info":{"seed":"302eb6a741a9f1c6","results":1,"page":1,"version":"1.4"}
+}
